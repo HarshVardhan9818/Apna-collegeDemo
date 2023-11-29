@@ -1,3 +1,3 @@
 # Apna-collegeDemo
 First
-Author - Harsh Vardhan
+Author - Harsh Vardhan(Apna College)
